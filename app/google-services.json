@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "717914196683",
+    "project_id": "chatexam-4bebd",
+    "storage_bucket": "chatexam-4bebd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717914196683:android:f2060372d6dae703f0a94e",
+        "android_client_info": {
+          "package_name": "dex.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717914196683-5qpnlcjubhj7q8e518kkge51oln6gfce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dex.com",
+            "certificate_hash": "cad2e2bce1c081d9abc091fe1a9b17d715b9e33c"
+          }
+        },
+        {
+          "client_id": "717914196683-8f9fpngl5egh72s5qcfjcr3qjvdl87mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_CFcbPZp8hzlyf4phn18KuU-RBmjsT3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717914196683-8f9fpngl5egh72s5qcfjcr3qjvdl87mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
